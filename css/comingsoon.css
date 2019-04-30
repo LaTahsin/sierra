@@ -1,0 +1,83 @@
+/*------------------------------------
+ *Author:FortunaTheme
+ *Template:Sierra
+ *Version:2.0
+ *-------------------------------------
+ */
+body{
+	background: url(../images/coming-bg.jpg);
+	background-size: cover;
+	height: 100%;
+}
+.coming-area {
+	padding-top: 150px;
+	text-align: center;
+}
+.coming-area h1{
+	font-size: 30px;
+}
+
+.coming-area h2 {
+	color: #fff;
+	font-family: 'Playfair Display', serif;
+	padding-bottom: 18px;
+	font-style: italic;
+	font-size: 58px;
+}
+.coming-area h1,.coming-area h3{
+	color: #fff;
+	font-weight: 600;
+	padding-bottom: 18px;
+}
+.coming-area h3{
+	font-size: 30px;
+}
+.count-down-area {
+	width: 60%;
+	margin:0 auto;
+	margin-top: 30px;
+}
+.count-single-area h3,.count-single-area p{
+	color: #fff;
+}
+.count-single-area h3{
+	font-weight: 600;
+}
+.count-single-area {
+	background: #2DA1C8;
+	text-align: center;
+	padding: 24px 0px;
+	margin: 0px 10px;
+	color: #fff;
+}
+.count-single-area h1{
+	font-size: 40px;
+	font-weight: 600;
+}
+.social-icons{
+	margin-top: 70px;
+}
+.social-icons a{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #fff;
+}
+.social-icons a i{
+	color: #fff;
+	text-align: center;
+}
+.social-icons a {
+	width: 40px;
+	height: 40px;
+	border: 1px solid #fff;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 20px;
+	line-height: 20px;
+	margin: 0px 6px;
+	transition:background 0.6s ease-in;
+}
+.social-icons a:hover{
+	background: #2DA1C8;
+	border-color: transparent;
+}

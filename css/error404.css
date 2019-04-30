@@ -1,0 +1,28 @@
+/*------------------------------------
+ *Author:FortunaTheme
+ *Template:Sierra
+ *Version:2.0
+ *-------------------------------------
+ */
+body{
+	background: url(../images/error404.jpg);
+	background-size: cover;
+	height: 100%;
+}
+.error-area {
+	padding-top: 150px;
+	text-align: center;
+}
+.error-bg h1,.error-bg h2,.error-bg p{
+	color: #fff;
+}
+.error-bg h1{
+	font-size: 100px;
+	padding-bottom: 20px;
+}
+.error-bg h2{
+	padding-bottom:15px;
+}
+.error-bg a i {
+	padding-right: 5px;
+}
